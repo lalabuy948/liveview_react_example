@@ -3,7 +3,9 @@
 
 // ex: export default { Simple };
 import { Chart } from "./components/Chart.tsx";
+import { ThemeToggle } from "./components/ThemeToggle.js";
 
 export default {
   Chart,
+  ThemeToggle,
 };
