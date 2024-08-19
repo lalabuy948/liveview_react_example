@@ -1,13 +1,13 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   darkMode: ["class"],
   content: [
-    "./js/**/*.{ts,tsx}",
+    "./js/**/*.{ja,ts,tsx}",
     "../lib/liveview_react_example/**/*.*ex",
     "../lib/liveview_react_example_web/**/**/*.*ex",
     "./react/components/**/*.{ts,tsx}",
-    "./react/**/*.jsx",
-    "./react/**/*.tsx",
+    "./react/**/*.{ts,tsx}",
   ],
   prefix: "",
   theme: {
