@@ -4,7 +4,8 @@
 
 ![shadcn/ui logo](/github/shadcnui.jpg)
 
-![chart example](/github/screenshot.png)
+
+https://github.com/user-attachments/assets/b1103ea6-fbb7-4702-9353-a3defe959a17
 
 
 To start your Phoenix server:
